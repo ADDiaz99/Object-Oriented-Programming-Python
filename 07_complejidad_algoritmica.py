@@ -1,4 +1,4 @@
-#Watch out with the "maximum recursion depth exceeded" error
+#Watch out with the "maximum recursion depth exceeded" error.
 import time
 
 def factorial(n):
